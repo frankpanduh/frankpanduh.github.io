@@ -1,0 +1,44 @@
+<package>
+	<id>org.xbmc.kodi-tvos64_19.0-0~alpha1org.xbmc.kodi-tvos64_19.0-0~alpha1_appletvos-arm.deb</id>
+	<name>Kodi 19.0 (alpha)</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>appletvos-arm</package>
+	</dependencies>
+	<shortDescription>This is a test for kodi 19 on AppleTV 12.04. Firmware should be 12.4</shortDescription>
+	<descriptionlist>
+		<description>Compiled this from https://github.com/fuzzard/xbmc/blob/master_darwin-embedded/</description>
+		<description>Simply to test out hosting it on a repo for apple tv.</description>
+		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>AppleTV Screenshot It's Chimera for AppleTV!  </description>
+			<image>chimeratv-home.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Chimera apple tv screenshot. It's another Chimera Screenshot!</description>
+			<image>chimeratv-splash-screen.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>This is my first build for AppleTv using github source.</change>
+
+	</changelog>
+	<links>
+		<link>
+			<name>Sourced from: Kodi "Fuzzard" Fork</name>
+			<url>https://github.com/fuzzard/xbmc/blob/master_darwin-embedded/</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>

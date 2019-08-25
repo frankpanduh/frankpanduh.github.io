@@ -1,0 +1,7 @@
+<changelog>
+	<changes>
+		<version>1.0.0</version>
+		<change>Initial Release:</change>
+		<change>First Attempt at porting Kodi 19 as a repo for tvOS.</change>
+	</changes>
+</changelog>
