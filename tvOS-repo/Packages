@@ -1,0 +1,20 @@
+Package: org.xbmc.kodi-tvos64
+Version: 19.0-0~alpha1
+Architecture: darwin-arm64
+Maintainer: Memphiz et al.
+Installed-Size: 843496
+Pre-Depends: cy+cpu.arm64
+Conflicts: org.xbmc.kodi-tvos
+Replaces: org.xbmc.kodi-tvos
+Filename: ./debs/org.xbmc.kodi-tvos64_19.0-0~alpha1_appletvos-arm.deb
+Size: 206966272
+MD5sum: ff874279eb85fb7f80002777cc3a2d9a
+SHA1: 0a60a1b37d99cb254596082ba32c199f91315d59
+SHA256: 69f9740a9ffca56347a2a63405ff34d2c4e2a7e142cb54ac7619e4dfa4caa075
+Section: Multimedia
+Priority: Extra
+Homepage: http://kodi.tv
+Description: Kodi Entertainment Center for iOS
+Author: Team-Kodi
+Icon: file:///Applications/Kodi.app/AppIcon57x57.png
+Name: Kodi-tvOS (64-bit)
